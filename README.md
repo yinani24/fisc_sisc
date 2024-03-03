@@ -5,3 +5,4 @@ Here are the files for the assembler and simulator for fisc code that simulates 
 
 ### siscas.cpp
 Converts sisc code into machine code.
+![fisc](https://github.com/yinani24/fisc_sisc/assets/93968740/20b01505-aa53-418c-bba5-a8e0c49f3872)
